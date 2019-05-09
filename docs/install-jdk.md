@@ -59,4 +59,10 @@
 ## 重启计算机
 
 完成后，请重启你的电脑
- 
+
+## 测试JDK是否安装成功
+
+- `开始` -> `运行`，键入`cmd`；
+- 键入命令: `java -version`，出现以下信息，说明你已经成功地完成了Java的安装！
+
+![1](https://www.runoob.com/wp-content/uploads/2013/12/java-win9.png)
