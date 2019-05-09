@@ -56,4 +56,7 @@
 
 ![1](https://www.runoob.com/wp-content/uploads/2013/12/44A70696-B2E6-4055-B88F-7FC0222DCCA4.png)
 
+## 重启计算机
+
+完成后，请重启你的电脑
  
